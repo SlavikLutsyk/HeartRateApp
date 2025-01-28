@@ -72,6 +72,13 @@ dependencies {
     implementation 'androidx.activity:activity-ktx:1.4.0'
     implementation 'androidx.fragment:fragment-ktx:1.5.0'
 
+    implementation 'com.github.kibotu:Heart-Rate-Ometer:1.2.1'
+    // Add RxJava dependency
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+
+    // If you also need Android specific bindings (optional)
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+
     implementation "io.coil-kt:coil-compose:2.0.0"
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.2.1'

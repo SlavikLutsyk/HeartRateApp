@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PulseApp</string>
+    <string name="title1">Ваш трекер тиску</string>
+    <string name="title2">Персоналізовані поради</string>
+    <string name="title3">Нагадування</string>
+    <string name="desc1">Зазначайте, відстежуйте та аналізуйте свої показники артеріального тиску.</string>
+    <string name="desc2">Програма надає дієві поради, які допоможуть вам підтримувати оптимальний рівень артеріального тиску та зменшити фактори ризику серцево-судинних захворювань.</string>
+    <string name="desc3">Не відставайте від графіка контролю артеріального тиску та прийому ліків за допомогою спеціальних нагадувань.</string>
+    <string name="start">Почати!</string>
+    <string name="moveOn">Продовжити</string>
+</resources>
